@@ -8,4 +8,8 @@ Hello! I'm a passionate Full Stack Developer. My journey in the tech world began
 
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
-## Idiomas
+## Languages
+
+-English
+-Spanish
+-Portuguese
